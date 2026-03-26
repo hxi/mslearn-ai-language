@@ -4,7 +4,7 @@ from playsound3 import playsound
 from dotenv import load_dotenv
 
 # Import namespaces
-
+from openai import AzureOpenAI
 
 
 def main():
